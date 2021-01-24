@@ -1,3 +1,6 @@
 [submodule "studied_architectures/PC-DARTS"]
 	path = studied_architectures/PC-DARTS
 	url = https://github.com/vdesgrange/PC-DARTS
+[submodule "studied_architectures/proxylessnas"]
+	path = studied_architectures/proxylessnas
+	url = https://github.com/vdesgrange/proxylessnas.git
