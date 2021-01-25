@@ -4,3 +4,6 @@
 [submodule "studied_architectures/proxylessnas"]
 	path = studied_architectures/proxylessnas
 	url = https://github.com/vdesgrange/proxylessnas.git
+[submodule "studied_architectures/pdarts"]
+	path = studied_architectures/pdarts
+	url = https://github.com/vdesgrange/pdarts
