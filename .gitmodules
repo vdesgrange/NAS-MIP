@@ -7,3 +7,6 @@
 [submodule "studied_architectures/pdarts"]
 	path = studied_architectures/pdarts
 	url = https://github.com/vdesgrange/pdarts
+[submodule "studied_architectures/models"]
+	path = studied_architectures/models
+	url = https://github.com/vdesgrange/models.git
