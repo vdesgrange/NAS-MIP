@@ -16,3 +16,6 @@
 [submodule "studied_architectures/PC-AutoDeeplab"]
 	path = studied_architectures/PC-AutoDeeplab
 	url = https://github.com/vdesgrange/PC-AutoDeeplab.git
+[submodule "studied_architectures/autodeeplab-1"]
+	path = studied_architectures/autodeeplab-1
+	url = https://github.com/vdesgrange/autodeeplab-1.git
